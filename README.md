@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I am Daber Yadav!
 
-<!--
-**daberyadav93/daberyadav93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- BCA (AI & Data Science) Student at K.R. Mangalam University, Gurugram
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
+- Interested in: Data Science & AI / ML
 
-Here are some ideas to get you started:
+## Technical Skills
+| Category | Technologies |
+|------------|-----------------------------------------------------|
+| Languages | Python (Beginner), Bash / Shell Scripting |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Concepts | File Systems, Process Management, REST APIs, Markdown |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [CSE103 Lab — LAB 3](https://github.com/daberyadav93/cse103-lab-LAB3) — Git workflows, API interaction, and Markdown documentation
+- [Developer Portfolio](https://github.com/daberyadav93/Developer-portfolio) — Centralised repository index, learning roadmap, and coding tracker
+
+## Currently Working On
+- Semester 1 lab projects and building daily problem-solving habits in Python
+
+## Connect With Me
+- LinkedIn : https://www.linkedin.com/in/daber-yadav-24a289431
+- Email : 2601060152@krmu.edu.in
